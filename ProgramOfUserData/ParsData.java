@@ -3,6 +3,7 @@ package ProgramOfUserData;
 import java.util.HashMap;
 
 public class ParsData {
+
     public HashMap<String, Object> parsInputData() {
         InputData inputData = new InputData();
         String[] data = inputData.enterData();

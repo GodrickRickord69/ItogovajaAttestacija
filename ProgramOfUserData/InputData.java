@@ -3,6 +3,7 @@ package ProgramOfUserData;
 import java.util.Scanner;
 
 public class InputData {
+
     public String[] enterData() {
         Scanner iScanner = new Scanner(System.in);
         while (true){

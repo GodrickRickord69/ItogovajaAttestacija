@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.util.HashMap;
 
 public class ProgramOfUserData {
+
     public static void main(String[] args) {
         ParsData parsData = new ParsData();
         String newFileName = null;
